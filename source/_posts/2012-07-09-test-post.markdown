@@ -1,0 +1,8 @@
+---
+layout: post
+title: "test post"
+date: 2012-07-09 23:46
+comments: true
+categories: 
+---
+purely test, far much better than CSDN...
