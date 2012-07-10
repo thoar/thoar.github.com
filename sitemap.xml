@@ -2,14 +2,18 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://thoar.github.com/blog/2012/07/09/test-post/</loc>
-        <lastmod>2012-07-10T00:25:06+08:00</lastmod>
+        <lastmod>2012-07-10T08:23:20+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://thoar.github.com/blog/2012/07/10/try-code-snippet-feature/</loc>
+        <lastmod>2012-07-10T09:10:00+08:00</lastmod>
     </url>
     <url>
         <loc>http://thoar.github.com/blog/archives/</loc>
-        <lastmod>2012-07-10T00:25:06+08:00</lastmod>
+        <lastmod>2012-07-10T09:10:00+08:00</lastmod>
     </url>
     <url>
         <loc>http://thoar.github.com/</loc>
-        <lastmod>2012-07-10T00:25:06+08:00</lastmod>
+        <lastmod>2012-07-10T09:10:00+08:00</lastmod>
     </url>
 </urlset>
