@@ -4,7 +4,7 @@
   <title><![CDATA[Thoar Soar Roar]]></title>
   <link href="http://thoar.github.com/atom.xml" rel="self"/>
   <link href="http://thoar.github.com/"/>
-  <updated>2012-07-10T00:11:05+08:00</updated>
+  <updated>2012-07-10T00:25:16+08:00</updated>
   <id>http://thoar.github.com/</id>
   <author>
     <name><![CDATA[thoar]]></name>
@@ -19,6 +19,11 @@
     <updated>2012-07-09T23:46:00+08:00</updated>
     <id>http://thoar.github.com/blog/2012/07/09/test-post</id>
     <content type="html"><![CDATA[<p>purely test, far much better than CSDN&#8230;</p>
+
+<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s1">&#39;hello world!&#39;</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
