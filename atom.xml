@@ -4,23 +4,14 @@
   <title><![CDATA[Thoar Soar Roar]]></title>
   <link href="http://thoar.github.com/atom.xml" rel="self"/>
   <link href="http://thoar.github.com/"/>
-  <updated>2012-07-10T09:22:20+08:00</updated>
+  <updated>2012-07-10T10:56:01+08:00</updated>
   <id>http://thoar.github.com/</id>
   <author>
-    <name><![CDATA[thoar]]></name>
+    <name><![CDATA[thoar(鲜染)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[try code snippet feature]]></title>
-    <link href="http://thoar.github.com/blog/2012/07/10/try-code-snippet-feature/"/>
-    <updated>2012-07-10T08:25:00+08:00</updated>
-    <id>http://thoar.github.com/blog/2012/07/10/try-code-snippet-feature</id>
-    <content type="html"><![CDATA[<p><em>In fact, this is my first time using markdown wtring blogs~</em></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[test post]]></title>
