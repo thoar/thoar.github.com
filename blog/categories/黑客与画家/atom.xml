@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Thoar Soar Roar]]></title>
-  <link href="http://thoar.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 黑客与画家 | Thoar Soar Roar]]></title>
+  <link href="http://thoar.github.com/blog/categories/黑客与画家/atom.xml" rel="self"/>
   <link href="http://thoar.github.com/"/>
   <updated>2012-07-13T17:47:14+08:00</updated>
   <id>http://thoar.github.com/</id>
@@ -34,7 +34,7 @@
 
 <p>为了找到我们不能说的话，首先，可以看看周围的人因为说了什么而陷入麻烦。</p>
 
-<blockquote><p>我猜想，最令人暴跳如雷的言论，就是被认为说出了真相的言论。 &#8211; Paul Graham</p></blockquote>
+<blockquote><p>我猜想，最令人暴跳如雷的言论，就是被认为说出了真相的言论。 -- Paul Graham</p></blockquote>
 
 <p>当一些言论被一股势力强制压制的时候，辨别这些言论的真伪，如果这些言论可能是真的，那么这很有可能就是一类不能说的话，理解这些可能是真话却被压制的话，便有可能理解那股压制势力的心理和背后的想法。</p>
 
@@ -74,21 +74,7 @@
 
 <p>这种不能说的话的产生，往往是由于社会斗争，在社会斗争中就会产生这样的两个团体，略占优势的团体就可能采用这种方式来打压对方。</p>
 
-<p>&#8211; 未完待续</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[test post]]></title>
-    <link href="http://thoar.github.com/blog/2012/07/09/test-post/"/>
-    <updated>2012-07-09T23:46:00+08:00</updated>
-    <id>http://thoar.github.com/blog/2012/07/09/test-post</id>
-    <content type="html"><![CDATA[<p>purely test, far much better than CSDN&#8230;</p>
-
-<figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s1">&#39;hello world!&#39;</span>
-</span></code></pre></td></tr></table></div></figure>
-
+<p>-- 未完待续</p>
 ]]></content>
   </entry>
   
